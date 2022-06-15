@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is a sample vertx demo to understand vertx structure and performance.
 
-### How do I get set up? ###
+### How to start application ? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Its a spring boot application, before starting the main class, this project requires java 8 with Gradle as dependency management.
 
-### Contribution guidelines ###
+### How to test ? ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* API Endpoint : localhost:8080/fake/value, this will give some dummy data as output.
